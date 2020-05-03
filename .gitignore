@@ -57,4 +57,4 @@ dkms.conf
 
 # Vagrant
 .vagrant
-.log
+*.log
