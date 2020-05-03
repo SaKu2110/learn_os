@@ -1,0 +1,4 @@
+sched:
+
+clean:
+	$(RM) sched
